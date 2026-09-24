@@ -1,0 +1,16 @@
+{
+  "version": "2026-09-21",
+  "nota": "Datos sinteticos de practica. No corresponden a ninguna organizacion real.",
+  "areas": [
+    {"categoria": "equipamiento_informatico", "area_responsable": "Soporte Tecnico",
+     "plazo_habiles": 5, "contacto": "soporte@ejemplo.interno"},
+    {"categoria": "accesos_sistemas", "area_responsable": "Administracion de Sistemas",
+     "plazo_habiles": 2, "contacto": "accesos@ejemplo.interno"},
+    {"categoria": "credenciales_edilicias", "area_responsable": "Seguridad Edilicia",
+     "plazo_habiles": 2, "contacto": "credenciales@ejemplo.interno"},
+    {"categoria": "viaticos", "area_responsable": "Administracion",
+     "plazo_habiles": 10, "contacto": "viaticos@ejemplo.interno"},
+    {"categoria": "reserva_salas", "area_responsable": "Servicios Generales",
+     "plazo_habiles": 7, "contacto": "salas@ejemplo.interno"}
+  ]
+}
